@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=VPN Isaías
+Comment=Gestor interactivo de conexiones VPN WireGuard
+Exec=sudo /usr/local/bin/vpn-isaias
+Icon=network-vpn
+Terminal=true
+Type=Application
+Categories=Network;Utility;
+StartupNotify=false
